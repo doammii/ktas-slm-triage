@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "KTAS triage prediction with small language models: Source code"
+abstract: >-
+  Stage-specific LoRA fine-tuning, constrained candidate-scoring inference, and standalone evaluation with bootstrap confidence intervals for hierarchical Korean Triage and Acuity Scale (KTAS) prediction. No study data are included.
+type: software
+version: 1.0.0
+date-released: "2026-10-12"
+license: BSD-2-Clause
+repository-code: "https://github.com/doammii/ktas-slm-triage"
+keywords:
+  - triage
+  - Korean Triage and Acuity Scale
+  - small language model
+  - low-rank adaptation
+  - clinical decision support
+authors:
+  - family-names: Kim
+    given-names: Doyeon
+  - family-names: Lim
+    given-names: Jeong Hyup
+  - family-names: Seo
+    given-names: Beom Sok
+  - family-names: Jung
+    given-names: Young Jin
+  - family-names: Jo
+    given-names: Eunhoe
+  - family-names: Park
+    given-names: Joon Bum
+  - family-names: Jung
+    given-names: Kyu-Hwan

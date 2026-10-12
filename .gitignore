@@ -1,0 +1,15 @@
+# Study data (never commit; see the Data availability section in README.md)
+data/
+*.xlsx
+*.csv
+
+# Run artifacts
+outputs/
+results/
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
